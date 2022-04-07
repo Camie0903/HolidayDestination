@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(84, 27, 163);
+    background-color: blanchedalmond;
+}
+h1{
+    color:  rgb(0, 157, 255);
+    font-family: cursive;
+    font-size: xx-large;
+}
+h2{
+    color: rgb(0, 157, 255);
+    font-family: cursive;
+    font-size: xx-large;
+}
+ul{
+    list-style-type: square;
+    color: black;
+}
